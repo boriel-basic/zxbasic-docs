@@ -1,3 +1,4 @@
 [submodule "zxbasic"]
 	path = zxbasic
 	url = https://github.com/boriel-basic/zxbasic.git
+	branch = docs
